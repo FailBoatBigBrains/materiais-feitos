@@ -1,0 +1,5 @@
+print('as')
+type(1)
+range(5)
+enumerate([0])
+input('escreva algo: ')
